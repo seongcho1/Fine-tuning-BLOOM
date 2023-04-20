@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1bUDzLjpl28JdWbbdYrgFAicNg7cZIUqe
 GenerAds Fine-tuning BLOOM.ipynb
 https://colab.research.google.com/drive/18PmMpNKAFBb5iHOJALOdFvd0Xe_5FX8R
 
-12:47
+19:35
 
 
 ## GenerAds - Fine-tuning GPT-3 on OpenAI
